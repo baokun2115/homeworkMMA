@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "homeworkMMA",
+    "slug": "homeworkMMA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
